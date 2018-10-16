@@ -1,7 +1,7 @@
 # React Drum Kit
 ### Install at local:
 Open Terminal, then type command:  
-> git clone https://github.com/dwicao/react-drum-kit.git
+> git clone https://github.com/KYoung3212/drumkit-react.git
 
 Go to project folder:
 > cd react-drum-kit
@@ -16,13 +16,7 @@ In your browser go to:
 > http://localhost:8080/  
 
 ### Demo  
-[Click Here!](https://dwicao.github.io/react-drum-kit/)  
+[Click Here!](https://www.kevin-young.us/drum-kit-react/)  
 
-###  Available Command  
-| npm run production | To bundle the entire app to folder /dist |
-| --- | --- |  
- 
-### License
-**MIT**  
 
 
