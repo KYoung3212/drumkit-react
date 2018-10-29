@@ -8,6 +8,23 @@ You can test it on my [live demo].
 <img src="https://github.com/KYoung3212/portfolio/blob/master/img/slides/drumkit-2.jpg" width="320">
 <img src="https://github.com/KYoung3212/portfolio/blob/master/img/slides/drumkit-0.jpg" width="320">
 
+# React Drum Kit
+### Install at local:
+Open Terminal, then type command:  
+> git clone https://github.com/KYoung3212/drumkit-react.git
+
+Go to project folder:
+> cd react-drum-kit
+
+Type following command :  
+> npm install  
+
+Wait until installation process finished and then type :
+> npm start  
+
+In your browser go to:  
+> http://localhost:8080/  
+
 
 ## Features
 
