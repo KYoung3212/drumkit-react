@@ -13,6 +13,10 @@ import snare from '../sounds/snare.wav';
 import tom from '../sounds/tom.wav';
 import tink from '../sounds/tink.wav';
 
+const fontSize = {
+  fontSize: '27pt'
+}
+
 export default class Home extends Component {
   render() {
     return (
@@ -46,7 +50,8 @@ export default class Home extends Component {
             smallText="f"
             bigText="openhat"
             code={70}
-            source={openhat}
+            source={openhat}  
+            style={fontSize}
           />
           <DrumKit
             className="drumKit boom"
